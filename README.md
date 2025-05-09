@@ -17,4 +17,4 @@ This project fine-tunes the powerful **ViT (Vision Transformer)** model from Hug
    - Validation accuracy: **95%**
    - Batch size: 16
    - Optimized with weight decay and evaluation on each epoch.
-5. **Inference**: Model can classify new food images into one of the 101 classes.
+5. **Inference**: Deployed the model in the form of FastAPI so it can classify new food images into one of the 101 classes.
